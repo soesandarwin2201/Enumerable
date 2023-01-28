@@ -46,8 +46,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Enumerable <a name="about-project"></a>
 
-![clinic_diagram](https://user-images.githubusercontent.com/54178270/214570845-50b392f2-8878-4214-a9e1-ef42923b295e.png)
-
 **Enumerable** In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
